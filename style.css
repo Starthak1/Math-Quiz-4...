@@ -1,0 +1,20 @@
+body
+{
+	background-color: rgb(255, 49, 91);
+}
+
+.login_div1 , .login_div2
+{
+	background: white;
+	padding: 10px;
+	float: none;
+	border-radius: 15px;
+}
+#output{
+	background-color: white;
+	border-radius: 10px;
+	border-top: 10px solid #AA4465;
+	padding: 10px;
+	float: none;
+	text-align: left;
+}
